@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="color">
+</Property><Property Name="解决方案文件" Value="D:\code\color\color.sln">
+</Property><Property Name="用户选项文件" Value="D:\code\color\color.suo">
+</Property><Property Name="Date" Value="2011年11月25日">
+</Property><Property Name="Time" Value="21:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="color.sln" Description="文件已成功备份为 D:\code\color\color.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="color.suo" Description="文件已成功备份为 D:\code\color\color.suo.old">
+</Event><Event ErrorLevel="0" Project="cbir" Source="color\cbir.vcproj" Description="Converting project file 'D:\code\color\color\cbir.vcproj'.">
+</Event><Event ErrorLevel="1" Project="cbir" Source="color\cbir.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="cbir" Source="color\cbir.vcproj" Description="Done converting to new project file 'D:\code\color\color\cbir.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="cbir" Source="color\cbir.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="color.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="color.sln" Description="Converted">
+</Event></UpgradeLog>
